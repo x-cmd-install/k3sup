@@ -5,7 +5,7 @@ about:
   head: 2fa773c
   archived: false
   latestVersion: "0.13.13"
-  collectedAt: 2026-09-08T01:57:36Z
+  collectedAt: 2026-09-08T04:54:52Z
 timeline:
   created: 2019-08-15
   lastCommit: 2026-09-03
@@ -81,7 +81,7 @@ total:
   commit: 469
 ---
 path: /home/runner/.x-repo/github.com/alexellis/k3sup
-collectedAt: 2026-09-08T01:57:37Z
+collectedAt: 2026-09-08T04:54:55Z
 loc:
   Go:
     code: 240083
