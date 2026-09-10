@@ -23,7 +23,23 @@ x install k3sup
 - **Latest**: `0.13.13` (2026-09-03)
 - **Last commit**: 2026-09-03
 - **Assets in release**: 12
-- **Published**: 2026-09-03T06:39:49Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [k3sup](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup) | 8.3 MiB | `other` |
+| [k3sup-arm64](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-arm64) | 7.7 MiB | `other` |
+| [k3sup-arm64.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-arm64.sha256) | 82 B | `other` |
+| [k3sup-armhf](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-armhf) | 8.0 MiB | `other` |
+| [k3sup-armhf.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-armhf.sha256) | 82 B | `other` |
+| [k3sup-darwin](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-darwin) | 8.4 MiB | `native/darwin/x64` |
+| [k3sup-darwin-arm64](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-darwin-arm64) | 7.8 MiB | `native/darwin/arm64` |
+| [k3sup-darwin-arm64.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-darwin-arm64.sha256) | 89 B | `native/darwin/arm64` |
+| [k3sup-darwin.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-darwin.sha256) | 83 B | `native/darwin/x64` |
+| [k3sup.exe](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup.exe) | 8.6 MiB | `other` |
+| [k3sup.exe.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup.exe.sha256) | 80 B | `other` |
+| [k3sup.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup.sha256) | 76 B | `other` |
 
 ## Popularity
 
@@ -68,8 +84,8 @@ Lowest-scoring checks:
 Install metadata for k3sup lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `k3sup` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/k3sup.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/k3sup.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:09:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:38:33Z._

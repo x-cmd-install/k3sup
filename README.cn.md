@@ -4,7 +4,7 @@
 
 bootstrap K3s over SSH in < 60s 🚀
 
-![k3sup](https://repo.x-cmd.io/k3sup.svg)
+![k3sup](https://repo.x-cmd.io/k3sup.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,23 @@ x install k3sup
 - **最新版本**: `0.13.13` (2026-09-03)
 - **最近提交**: 2026-09-03
 - **Release 含资产**: 12 个
-- **发布时间**: 2026-09-03T06:39:49Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [k3sup](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup) | 8.3 MiB | `other` |
+| [k3sup-arm64](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-arm64) | 7.7 MiB | `other` |
+| [k3sup-arm64.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-arm64.sha256) | 82 B | `other` |
+| [k3sup-armhf](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-armhf) | 8.0 MiB | `other` |
+| [k3sup-armhf.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-armhf.sha256) | 82 B | `other` |
+| [k3sup-darwin](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-darwin) | 8.4 MiB | `native/darwin/x64` |
+| [k3sup-darwin-arm64](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-darwin-arm64) | 7.8 MiB | `native/darwin/arm64` |
+| [k3sup-darwin-arm64.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-darwin-arm64.sha256) | 89 B | `native/darwin/arm64` |
+| [k3sup-darwin.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-darwin.sha256) | 83 B | `native/darwin/x64` |
+| [k3sup.exe](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup.exe) | 8.6 MiB | `other` |
+| [k3sup.exe.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup.exe.sha256) | 80 B | `other` |
+| [k3sup.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup.sha256) | 76 B | `other` |
 
 ## 流行度
 
@@ -72,4 +88,4 @@ k3sup 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:09:35Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:38:34Z._
