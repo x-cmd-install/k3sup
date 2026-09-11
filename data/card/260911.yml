@@ -7,7 +7,7 @@ about:
   latestVersion: "0.13.13"
   latestRelease: "0.13.13"
   latestPrerelease: "0.13.7"
-  collectedAt: 2026-09-11T05:01:10Z
+  collectedAt: 2026-09-11T20:05:38Z
 timeline:
   created: 2019-08-15
   lastCommit: 2026-09-03
@@ -85,7 +85,7 @@ total:
   commit: 469
 ---
 path: /home/runner/.x-repo/github.com/alexellis/k3sup
-collectedAt: 2026-09-11T05:01:12Z
+collectedAt: 2026-09-11T20:05:40Z
 loc:
   Go:
     code: 240083
