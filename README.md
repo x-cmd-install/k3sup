@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,438 · **Forks**: 432 · **Open issues**: 260 · **Contributors**: 49
+- **Stars**: 7,438 · **Forks**: 432 · **Open issues**: 261 · **Contributors**: 49
 
 ## Totals (cumulative)
 
-- **Releases**: 133 · **Merged PRs**: 122 · **Open PRs**: 10 · **Closed issues**: 237 · **Open issues**: 23 · **Commits**: 469
+- **Releases**: 133 · **Merged PRs**: 122 · **Open PRs**: 10 · **Closed issues**: 237 · **Open issues**: 24 · **Commits**: 469
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-19 | 1 | 0 | 1 | 0 | 0 | 1 |
-| 90d | 2026-07-20 | 1 | 0 | 3 | 0 | 1 | 1 |
-| last180d | 2026-04-21 | 1 | 1 | 3 | 0 | 2 | 2 |
-| 360d | 2025-10-23 | 2 | 1 | 3 | 1 | 4 | 9 |
-| last720d | 2024-10-28 | 6 | 2 | 5 | 6 | 8 | 30 |
+| 30d | 2026-09-19 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-08-20 | 1 | 0 | 1 | 0 | 1 | 1 |
+| 90d | 2026-07-21 | 1 | 0 | 3 | 0 | 2 | 1 |
+| last180d | 2026-04-22 | 1 | 1 | 3 | 0 | 3 | 2 |
+| 360d | 2025-10-24 | 2 | 1 | 3 | 1 | 5 | 9 |
+| last720d | 2024-10-29 | 6 | 2 | 5 | 6 | 9 | 30 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for k3sup lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:40:39Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:52:31Z._
