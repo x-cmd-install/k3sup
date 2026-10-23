@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,441 · **Forks**: 432 · **Open issues**: 261 · **Contributors**: 49
+- **Stars**: 7,442 · **Forks**: 433 · **Open issues**: 261 · **Contributors**: 49
 
 ## Totals (cumulative)
 
-- **Releases**: 133 · **Merged PRs**: 122 · **Open PRs**: 10 · **Closed issues**: 237 · **Open issues**: 24 · **Commits**: 469
+- **Releases**: 133 · **Merged PRs**: 122 · **Open PRs**: 11 · **Closed issues**: 237 · **Open issues**: 24 · **Commits**: 469
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 1 | 0 | 1 | 0 | 1 | 1 |
-| 90d | 2026-07-24 | 1 | 0 | 2 | 0 | 1 | 1 |
-| last180d | 2026-04-25 | 1 | 1 | 3 | 0 | 3 | 2 |
-| 360d | 2025-10-27 | 2 | 1 | 3 | 1 | 5 | 9 |
-| last720d | 2024-11-01 | 6 | 2 | 5 | 6 | 9 | 30 |
+| 30d | 2026-09-23 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-08-24 | 1 | 0 | 2 | 0 | 1 | 1 |
+| 90d | 2026-07-25 | 1 | 0 | 3 | 0 | 1 | 1 |
+| last180d | 2026-04-26 | 1 | 1 | 4 | 0 | 3 | 2 |
+| 360d | 2025-10-28 | 2 | 1 | 4 | 1 | 5 | 9 |
+| last720d | 2024-11-02 | 6 | 2 | 6 | 6 | 9 | 30 |
 
 ## Release assets
 
@@ -82,6 +82,17 @@ Lowest-scoring checks:
 | [k3sup.exe.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup.exe.sha256) | 80 B | `other` |
 | [k3sup.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup.sha256) | 76 B | `other` |
 
+## Distribution status
+
+Reported by **18** distros on [repology.org](https://repology.org/project/k3sup). **6** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.13.13` | ✅ latest |
+| Nix unstable | `0.13.13` | ✅ latest |
+| Alpine edge | `0.13.6` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.13.13` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for k3sup lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `k3sup` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +102,4 @@ Install metadata for k3sup lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:53:48Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:56:39Z._
