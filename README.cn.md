@@ -14,13 +14,13 @@ x install k3sup
 
 ## 代码洞察
 
-合计: **257,169** 行代码（覆盖前 5 种语言、共 **841** 个文件）。
+合计: **264,484** 行代码（覆盖前 5 种语言、共 **853** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 240,083 | 27,043 | 29,933 | 765 |
-| AssemblyGAS | 15,432 | 1,486 | 3,240 | 62 |
-| Sh | 1,464 | 150 | 120 | 9 |
+| Go | 243,384 | 27,810 | 30,416 | 774 |
+| AssemblyGAS | 19,453 | 1,803 | 3,610 | 65 |
+| Sh | 1,457 | 150 | 120 | 9 |
 | Bash | 76 | 8 | 13 | 2 |
 | Makefile | 53 | 1 | 15 | 3 |
 
@@ -42,56 +42,56 @@ x install k3sup
 
 ## 发布
 
-- **最新版本**: `0.13.13` (2026-09-03)
-- **最近提交**: 2026-09-03
+- **最新版本**: `0.13.14` (2026-10-23)
+- **最近提交**: 2026-10-23
 - **Release 含资产**: 12 个
 
 ## 流行度
 
-- **Star**: 7,442 · **Fork**: 433 · **开放 issue**: 261 · **贡献者**: 49
+- **Star**: 7,441 · **Fork**: 433 · **开放 issue**: 261 · **贡献者**: 49
 
 ## 累计统计
 
-- **发布数**: 133 · **已合并 PR**: 122 · **开放 PR**: 11 · **已关闭 issue**: 237 · **开放 issue**: 24 · **提交数**: 469
+- **发布数**: 134 · **已合并 PR**: 123 · **开放 PR**: 10 · **已关闭 issue**: 237 · **开放 issue**: 24 · **提交数**: 471
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-08-24 | 1 | 0 | 2 | 0 | 1 | 1 |
-| 90d | 2026-07-25 | 1 | 0 | 3 | 0 | 1 | 1 |
-| last180d | 2026-04-26 | 1 | 1 | 4 | 0 | 3 | 2 |
-| 360d | 2025-10-28 | 2 | 1 | 4 | 1 | 5 | 9 |
-| last720d | 2024-11-02 | 6 | 2 | 6 | 6 | 9 | 30 |
+| 30d | 2026-09-24 | 1 | 1 | 1 | 0 | 1 | 2 |
+| last60d | 2026-08-25 | 2 | 1 | 1 | 0 | 1 | 3 |
+| 90d | 2026-07-26 | 2 | 1 | 2 | 0 | 1 | 3 |
+| last180d | 2026-04-27 | 2 | 2 | 3 | 0 | 3 | 4 |
+| 360d | 2025-10-29 | 3 | 2 | 3 | 1 | 5 | 11 |
+| last720d | 2024-11-03 | 7 | 3 | 5 | 6 | 9 | 32 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [k3sup](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup) | 8.3 MiB | `other` |
-| [k3sup-arm64](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-arm64) | 7.7 MiB | `other` |
-| [k3sup-arm64.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-arm64.sha256) | 82 B | `other` |
-| [k3sup-armhf](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-armhf) | 8.0 MiB | `other` |
-| [k3sup-armhf.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-armhf.sha256) | 82 B | `other` |
-| [k3sup-darwin](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-darwin) | 8.4 MiB | `native/darwin/x64` |
-| [k3sup-darwin-arm64](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-darwin-arm64) | 7.8 MiB | `native/darwin/arm64` |
-| [k3sup-darwin-arm64.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-darwin-arm64.sha256) | 89 B | `native/darwin/arm64` |
-| [k3sup-darwin.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup-darwin.sha256) | 83 B | `native/darwin/x64` |
-| [k3sup.exe](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup.exe) | 8.6 MiB | `other` |
-| [k3sup.exe.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup.exe.sha256) | 80 B | `other` |
-| [k3sup.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.13/k3sup.sha256) | 76 B | `other` |
+| [k3sup](https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup) | 8.9 MiB | `other` |
+| [k3sup-arm64](https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup-arm64) | 8.3 MiB | `other` |
+| [k3sup-arm64.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup-arm64.sha256) | 82 B | `other` |
+| [k3sup-armhf](https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup-armhf) | 8.8 MiB | `other` |
+| [k3sup-armhf.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup-armhf.sha256) | 82 B | `other` |
+| [k3sup-darwin](https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup-darwin) | 9.1 MiB | `native/darwin/x64` |
+| [k3sup-darwin-arm64](https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup-darwin-arm64) | 8.4 MiB | `native/darwin/arm64` |
+| [k3sup-darwin-arm64.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup-darwin-arm64.sha256) | 89 B | `native/darwin/arm64` |
+| [k3sup-darwin.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup-darwin.sha256) | 83 B | `native/darwin/x64` |
+| [k3sup.exe](https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup.exe) | 9.2 MiB | `other` |
+| [k3sup.exe.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup.exe.sha256) | 80 B | `other` |
+| [k3sup.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup.sha256) | 76 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/k3sup) 上共有 **18** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/k3sup) 上共有 **18** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.13.13` | ✅ latest |
-| Nix unstable | `0.13.13` | ✅ latest |
+| Homebrew | `0.13.14` | ✅ latest |
+| Nix unstable | `0.13.13` | ⚠️ outdated |
 | Alpine edge | `0.13.6` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.13.13` | ✅ latest |
+| openSUSE Tumbleweed | `0.13.13` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -102,4 +102,4 @@ k3sup 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261023.yml` · 2026-10-23T04:56:39Z._
+_数据快照: `data/card/261024.yml` · 2026-10-24T04:51:15Z._
