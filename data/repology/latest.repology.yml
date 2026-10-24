@@ -79,12 +79,12 @@
   visiblename: k3sup (Latest)
   version: 0.13.13
   origversion: null
-  status: newest
+  status: outdated
   summary: arkade - The Open Source Kubernetes Marketplace
 - repo: homebrew
   srcname: k3sup
   visiblename: k3sup
-  version: 0.13.13
+  version: 0.13.14
   origversion: null
   status: newest
   summary: Utility to create k3s clusters on any local or remote VM
@@ -99,7 +99,7 @@
   srcname: sysutils/k3sup
   binname: k3sup
   visiblename: k3sup
-  version: 0.13.13
+  version: 0.13.14
   origversion: null
   status: newest
   summary: bootstrap Kubernetes with k3s over SSH < 1 min
@@ -174,7 +174,7 @@
   visiblename: k3sup
   version: 0.13.13
   origversion: null
-  status: newest
+  status: outdated
   summary: Bootstrap Kubernetes with k3s over SSH
   maintainers:
     - welteki@pm.me
@@ -191,7 +191,7 @@
   visiblename: k3sup
   version: 0.13.13
   origversion: 0.13.13-1.1
-  status: newest
+  status: outdated
   summary: Bootstrap Kubernetes with k3s over SSH < 1 min
   licenses:
     - MIT
@@ -201,7 +201,7 @@
   subrepo: main
   binname: k3sup
   visiblename: k3sup
-  version: 0.13.13
+  version: 0.13.14
   origversion: null
   status: newest
   licenses:
