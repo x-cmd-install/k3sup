@@ -77,9 +77,9 @@
 - repo: chocolatey
   binname: k3sup
   visiblename: k3sup (Latest)
-  version: 0.13.13
+  version: 0.13.14
   origversion: null
-  status: outdated
+  status: newest
   summary: arkade - The Open Source Kubernetes Marketplace
 - repo: homebrew
   srcname: k3sup
