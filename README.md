@@ -26,13 +26,13 @@ Total: **264,484** lines of code across **853** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **2.7 / 10**
+Overall score: **2.9 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 1/29 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,442 · **Forks**: 433 · **Open issues**: 261 · **Contributors**: 49
+- **Stars**: 7,445 · **Forks**: 433 · **Open issues**: 261 · **Contributors**: 49
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 1 | 1 | 0 | 1 | 2 |
-| last60d | 2026-08-27 | 2 | 1 | 1 | 0 | 1 | 3 |
-| 90d | 2026-07-28 | 2 | 1 | 2 | 0 | 1 | 3 |
-| last180d | 2026-04-29 | 2 | 2 | 3 | 0 | 3 | 4 |
-| 360d | 2025-10-31 | 3 | 2 | 3 | 1 | 5 | 11 |
-| last720d | 2024-11-05 | 7 | 3 | 5 | 6 | 9 | 32 |
+| 30d | 2026-09-27 | 1 | 1 | 1 | 0 | 1 | 2 |
+| last60d | 2026-08-28 | 2 | 1 | 1 | 0 | 1 | 3 |
+| 90d | 2026-07-29 | 2 | 1 | 2 | 0 | 1 | 3 |
+| last180d | 2026-04-30 | 2 | 2 | 3 | 0 | 3 | 4 |
+| 360d | 2025-11-01 | 3 | 2 | 3 | 1 | 5 | 11 |
+| last720d | 2024-11-06 | 7 | 3 | 5 | 6 | 9 | 32 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for k3sup lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:54:42Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:20:47Z._
