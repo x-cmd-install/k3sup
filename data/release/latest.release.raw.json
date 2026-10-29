@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 9318560,
       "digest": "sha256:8117a7c298209b1a9e6f6f1e936dc7a5342d786bba45d4ca190105c20278e060",
-      "download_count": 364,
+      "download_count": 491,
       "created_at": "2026-10-23T13:46:27Z",
       "updated_at": "2026-10-23T13:46:28Z",
       "browser_download_url": "https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8650912,
       "digest": "sha256:aee7c0ba741fb3bc5e71bf7315754ace093ba756c9cb9ef740f75f6ee64e3ff4",
-      "download_count": 20,
+      "download_count": 24,
       "created_at": "2026-10-23T13:46:29Z",
       "updated_at": "2026-10-23T13:46:29Z",
       "browser_download_url": "https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup-arm64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8807538,
       "digest": "sha256:8286a0181eb5ab92903b71c5ef1f1951ae6c32ca8b5724df33c0d82927d3af2a",
-      "download_count": 26,
+      "download_count": 30,
       "created_at": "2026-10-23T13:46:34Z",
       "updated_at": "2026-10-23T13:46:34Z",
       "browser_download_url": "https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup-darwin-arm64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 83,
       "digest": "sha256:1343e63eb6e2a709a5088d6959f1e96fbeca3bc579f6d43aeb899948d1715193",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-23T13:46:35Z",
       "updated_at": "2026-10-23T13:46:36Z",
       "browser_download_url": "https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup-darwin.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 9665024,
       "digest": "sha256:13be55f63be59f579df89a5df070b1d1be07292aae2612ccbb97318ade9c6018",
-      "download_count": 55,
+      "download_count": 63,
       "created_at": "2026-10-23T13:46:36Z",
       "updated_at": "2026-10-23T13:46:37Z",
       "browser_download_url": "https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 80,
       "digest": "sha256:caa67b027c7afef741eda030a562c89baae0741f53030a1eadd9c3b9b9d17014",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2026-10-23T13:46:38Z",
       "updated_at": "2026-10-23T13:46:38Z",
       "browser_download_url": "https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup.exe.sha256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 76,
       "digest": "sha256:b6b82445a01b23efa1c19f5d1930f40dce3714a4d343fce6fdf5420079b2ba8f",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-10-23T13:46:38Z",
       "updated_at": "2026-10-23T13:46:39Z",
       "browser_download_url": "https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup.sha256"
