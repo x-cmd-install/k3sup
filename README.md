@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,459 · **Forks**: 433 · **Open issues**: 261 · **Contributors**: 49
+- **Stars**: 7,458 · **Forks**: 432 · **Open issues**: 261 · **Contributors**: 49
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 1 | 0 | 0 | 1 | 2 |
-| last60d | 2026-09-14 | 1 | 1 | 1 | 0 | 1 | 2 |
-| 90d | 2026-08-15 | 2 | 1 | 2 | 0 | 1 | 3 |
-| last180d | 2026-05-17 | 2 | 2 | 3 | 0 | 3 | 4 |
-| 360d | 2025-11-18 | 3 | 2 | 3 | 1 | 5 | 11 |
-| last720d | 2024-11-23 | 7 | 3 | 5 | 6 | 9 | 32 |
+| 30d | 2026-10-15 | 1 | 1 | 0 | 0 | 1 | 2 |
+| last60d | 2026-09-15 | 1 | 1 | 1 | 0 | 1 | 2 |
+| 90d | 2026-08-16 | 2 | 1 | 2 | 0 | 1 | 3 |
+| last180d | 2026-05-18 | 2 | 2 | 3 | 0 | 3 | 4 |
+| 360d | 2025-11-19 | 3 | 2 | 3 | 1 | 5 | 11 |
+| last720d | 2024-11-24 | 7 | 3 | 5 | 6 | 9 | 32 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for k3sup lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:00:16Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:35:34Z._
