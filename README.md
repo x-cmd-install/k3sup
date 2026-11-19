@@ -38,7 +38,7 @@ Total: **264,484** lines of code across **853** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,459 · **Forks**: 433 · **Open issues**: 261 · **Contributors**: 49
+- **Stars**: 7,457 · **Forks**: 432 · **Open issues**: 261 · **Contributors**: 49
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **264,484** lines of code across **853** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 1 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 1 | 1 | 1 | 0 | 1 | 2 |
-| 90d | 2026-08-19 | 2 | 1 | 1 | 0 | 1 | 3 |
-| last180d | 2026-05-21 | 2 | 2 | 3 | 0 | 3 | 4 |
-| 360d | 2025-11-22 | 3 | 2 | 3 | 1 | 5 | 11 |
-| last720d | 2024-11-27 | 7 | 3 | 5 | 6 | 9 | 32 |
+| 30d | 2026-10-20 | 1 | 1 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 1 | 1 | 1 | 0 | 1 | 2 |
+| 90d | 2026-08-21 | 2 | 1 | 1 | 0 | 1 | 3 |
+| last180d | 2026-05-23 | 2 | 2 | 3 | 0 | 3 | 4 |
+| 360d | 2025-11-24 | 3 | 2 | 3 | 1 | 5 | 11 |
+| last720d | 2024-11-29 | 7 | 3 | 5 | 6 | 9 | 32 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for k3sup lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:23:17Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:18:21Z._
