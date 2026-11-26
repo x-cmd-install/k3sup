@@ -24,6 +24,16 @@ Total: **264,484** lines of code across **853** files in the top 5 languages.
 | Bash | 76 | 8 | 13 | 2 |
 | Makefile | 53 | 1 | 15 | 3 |
 
+## OpenSSF Scorecard
+
+Overall score: **2.9 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
+- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
+
 ## Source
 
 - **Upstream**: <https://github.com/alexellis/k3sup>
@@ -48,12 +58,12 @@ Total: **264,484** lines of code across **853** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 1 | 1 | 1 | 0 | 1 | 2 |
-| 90d | 2026-08-27 | 2 | 1 | 1 | 0 | 1 | 3 |
-| last180d | 2026-05-29 | 2 | 2 | 3 | 0 | 3 | 4 |
-| 360d | 2025-11-30 | 3 | 2 | 3 | 1 | 5 | 11 |
-| last720d | 2024-12-05 | 7 | 3 | 5 | 6 | 9 | 32 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 1 | 1 | 1 | 0 | 1 | 0 |
+| 90d | 2026-08-28 | 2 | 1 | 1 | 0 | 1 | 0 |
+| last180d | 2026-05-30 | 2 | 2 | 3 | 0 | 3 | 0 |
+| 360d | 2025-12-01 | 3 | 2 | 3 | 1 | 5 | 0 |
+| last720d | 2024-12-06 | 7 | 3 | 5 | 6 | 9 | 32 |
 
 ## Release assets
 
@@ -72,6 +82,17 @@ Total: **264,484** lines of code across **853** files in the top 5 languages.
 | [k3sup.exe.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup.exe.sha256) | 80 B | `other` |
 | [k3sup.sha256](https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup.sha256) | 76 B | `other` |
 
+## Distribution status
+
+Reported by **18** distros on [repology.org](https://repology.org/project/k3sup). **5** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.13.14` | ✅ latest |
+| Nix unstable | `0.13.13` | ⚠️ outdated |
+| Alpine edge | `0.13.6` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.13.14` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for k3sup lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `k3sup` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +102,4 @@ Install metadata for k3sup lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:48:36Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:35:10Z._
